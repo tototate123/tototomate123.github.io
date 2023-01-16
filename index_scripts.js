@@ -3,7 +3,7 @@ const alerts = {
         "contact": "Add me on Discord! :) \n Louis#7723 \n ------- \n E-Mail: \n louisrost.schule@gmail.com"
     },
     "de": {
-        "contact": "Sende mir eine Freundschaftsanfrage! :) :) \n Louis#7723 \n ------- \n E-Mail: \n louisrost.schule@gmail.com"
+        "contact": "Sende mir eine Freundschaftsanfrage! :) \n Louis#7723 \n ------- \n E-Mail: \n louisrost.schule@gmail.com"
     }
 }
 const buttons = document.querySelectorAll('.round-button');
