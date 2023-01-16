@@ -1,0 +1,87 @@
+.button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.round-button {
+    border-radius: 15px;
+    margin: 1%;
+    background-color: #000;
+    font-family: Arial, sans-serif;
+    color: #fff;
+    font-size: 2vw;
+    height: 2%;
+    text-align: center;
+    justify-content: center;
+    line-height: 50px; /* Setze die Höhe der Textzeile auf die Höhe des Knopfes */
+    }
+    
+
+@media only screen and (max-width: 600px) {
+    .round-button {
+        font-size: 3vw; /* Schriftgröße erhöhen, um besser lesbar zu sein */
+    }
+}
+
+.name {
+    text-align: center; /* Zentriert den Text */
+    font-size: 6em; /* Setzt die Schriftgröße auf 3x die Größe der Standard-Schriftgröße */
+    font-weight: bold; /* Macht die Schrift fett */
+    margin: 1em 0; /* Fügt oben und unten einen Abstand von 1em hinzu */
+}
+
+.nickname {
+    text-align: center; /* Zentriert den Text */
+    font-size: 2em; /* Setzt die Schriftgröße auf 3x die Größe der Standard-Schriftgröße */
+    margin: -2em 0;
+}
+
+
+.portfolio {
+    text-align: center; /* Zentriert den Text */
+    margin: 4em 0;
+    font-size: 4.5em;
+}
+.port_nr_1 {
+    text-align: center; /* Zentriert den Text */
+    margin: -2.5em 0;
+    font-size: 3.5em;
+}
+
+body { /* For Start website and About website*/
+    font-size: 20px;
+    background-color: #222222;
+    color: #fff;
+    font-family: Arial, sans-serif;
+}
+/* About Website Text etc..*/
+.Title {
+    text-align: center;
+    font-size: 3.5em;
+}
+
+.info {
+    text-align: center;
+}
+
+#cookie-popup {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #444;
+    padding: 10px;
+    text-align: center;
+    color: #fff;
+  }
+  
+
+.versions-infos {
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    font-size: 0.8em;
+}
