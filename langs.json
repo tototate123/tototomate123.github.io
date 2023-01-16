@@ -1,0 +1,18 @@
+{
+    "en": {
+        "lang": "English",
+        "home": "Home",
+        "about": "About",
+        "contact": "Contact",
+        "info": "Hello, I'm Louis (Alexander) Rost and this is my website about what I've done so far. \n \n I am 15 years old and in the 9th grade of high school. I come from Germany. \n My goal by the age of 18 is to be able to use Python, HTML or CSS and JavaScript. So far I have the basics for everything.",
+        "portfolio_item1": "Unfortunately still pretty empty here :("
+    },
+    "de": {
+        "lang": "Deutsch",
+        "home": "Startseite",
+        "about": "Über Mich",
+        "contact": "Kontakt",
+        "info": "Hallo, ich bin Louis (Alexander) Rost und das ist meine Website über das, was ich bis jetzt so gemacht habe. \n \n Ich bin 15 Jahre alt und besuche ein Gymnasium in der 9. Klasse. Ich komme aus Deutschland. \n Mein Ziel bis zum 18. Lebensjahr ist es, Python, HTML bzw CSS und JavaScript zu können. Bis her habe ich bei allem die Gundlagen.",
+        "portfolio_item1": "Leider noch ziemlich leer hier :("
+    }
+}
