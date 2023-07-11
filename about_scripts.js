@@ -20,7 +20,7 @@ buttons.forEach(button => {
         } else if (buttonText === 'language-switch') {
             // Code to handle the 'About' button click
         } else if (buttonText === 'contact-button') {
-            alert(alerts[currentLanguage].contact);
+            window.location.href='https://www.youtube.com/watch?v=xvFZjo5PgG0'
         }
     });
 });
